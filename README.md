@@ -1,2 +1,2 @@
-# Java
+# Generic
 Java Programs
